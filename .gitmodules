@@ -1,3 +1,6 @@
 [submodule "kora"]
 	path = kora
 	url = https://github.com/bikass/kora
+[submodule "Newaita-reborn"]
+	path = Newaita-reborn
+	url = https://github.com/cbrnix/Newaita-reborn
