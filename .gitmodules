@@ -4,3 +4,18 @@
 [submodule "Newaita-reborn"]
 	path = Newaita-reborn
 	url = https://github.com/cbrnix/Newaita-reborn
+[submodule "Tela-icon-theme"]
+	path = Tela-icon-theme
+	url = https://github.com/vinceliuice/Tela-icon-theme
+[submodule "WhiteSur-icon-theme"]
+	path = WhiteSur-icon-theme
+	url = https://github.com/vinceliuice/WhiteSur-icon-theme
+[submodule "Win10Sur-icon-theme"]
+	path = Win10Sur-icon-theme
+	url = https://github.com/yeyushengfan258/Win10Sur-icon-theme
+[submodule "We10X-icon-theme"]
+	path = We10X-icon-theme
+	url = https://github.com/yeyushengfan258/We10X-icon-theme
+[submodule "Win11-icon-theme"]
+	path = Win11-icon-theme
+	url = https://github.com/yeyushengfan258/Win11-icon-theme
